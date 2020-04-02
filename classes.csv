@@ -1,0 +1,11 @@
+Original_Classes,Visual_Classes,Binary_Classes,Description
+Artefact,Artefact,Not-Real,Residuals caused by problems in the image
+Dipole,Dipole/Saturated,Not-Real,Residuals caused by errors in image registration
+Saturated Star,Dipole/Saturated,Not-Real,Residuals of stars that saturate the CCD
+Moving,Real,Real,Anything showing signs of motion
+Variable,Real,Real,Objects showing a record of long-term variability
+Transient,Real,Real,Objects with no observation history
+SN Other,Real,Real,Objects that are thought to be SNe
+SN Bronze,Real,Real,residuals at the centre of their host galaxies
+SN Silver,Real,Real,SNe much more luminous
+SN Gold,Real,Real,Possible SNe identified
